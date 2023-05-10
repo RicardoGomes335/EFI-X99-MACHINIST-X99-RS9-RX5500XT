@@ -1,0 +1,2 @@
+# EFI-X99-MACHINIST-X99-RS9-RX5500XT
+EFi Machinist X99-RS9 with OpenCore 0.9.2
