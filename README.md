@@ -21,31 +21,53 @@ macOS: Ventura 13.3.1
 Opencore: 0.9.2
 
 Disable on Bios
+
 Fast Boot
+
 Secure Boot
+
 Serial/COM Port
+
 Parallel Port
+
 VT-d (can be enabled if you set DisableIoMapper to YES)
+
 Compatibility Support Module (CSM).
+
 Thunderbolt(For initial install, as Thunderbolt can cause issues if not setup correctly)
+
 Intel SGX
+
 Intel Platform Trust
+
 CFG Lock (MSR 0xE2 write protection)
+
 This must be off, if you can't find the option then ENABLE AppleXcpmCfgLock.
+
 Your hack will not boot with CFG-Lock enabled.
+
 For 10.10 and older, you'll need to ENABLE AppleCpuPmCfgLock as well.
 
 ============================================================================================
 
 Enable on Bios
+
 VT-x
+
 Above 4G decoding.
+
 This must be on, if you can't find the option then add npci=0x2000 to boot-args.
+
 Do not have both this option and npci on boot-args enabled at the same time.
+
 Hyper-Threading
+
 Execute Disable Bit
+
 EHCI/XHCI Hand-off
+
 OS type: Windows 8.1/10/11 UEFI Mode
+
 SATA Mode: AHCI
 
 ============================================================================================
