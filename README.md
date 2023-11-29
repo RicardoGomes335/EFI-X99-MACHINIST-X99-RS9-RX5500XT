@@ -1,8 +1,8 @@
 # EFI-X99-MACHINIST-X99-RS9-RX5500XT
 
-EFi Machinist X99-RS9 with OpenCore 0.9.2
+EFi Machinist X99-RS9 with OpenCore 0.9.66
 
-Supports Hackintosh Monterey version 12.3.1 up to Ventura 13.3.1
+Supports Hackintosh Monterey version 12.3.1 up to Sonoma 14.1.1
 
 Platform: LGA 2011-3 | Intel Xeon V3
 
@@ -16,7 +16,7 @@ Audio: Realtek ALC662 (Fixed)
 
 SMBIOS: iMacPro1,1
 
-macOS: Ventura 13.3.1
+macOS: Sonoma 14.1.1
 
 Opencore: 0.9.2
 
@@ -71,3 +71,5 @@ OS type: Windows 8.1/10/11 UEFI Mode
 SATA Mode: AHCI
 
 ============================================================================================
+
+<img src="/assets/img/sonoma.png">
