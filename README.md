@@ -18,7 +18,7 @@ SMBIOS: iMacPro1,1
 
 macOS: Sonoma 14.1.1
 
-Opencore: 0.9.2
+Opencore: 0.9.6
 
 Disable on Bios
 
