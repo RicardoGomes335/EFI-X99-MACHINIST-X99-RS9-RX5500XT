@@ -72,6 +72,4 @@ SATA Mode: AHCI
 
 ============================================================================================
 
-## Imagem
-
-![](https://raw.githubusercontent.com/RicardoGomes335/EFI-X99-MACHINIST-X99-RS9-RX5500XT/main/assets/img/sonoma.png)
+<img src="https://github.com/RicardoGomes335/EFI-X99-MACHINIST-X99-RS9-RX5500XT.git/assets/img/sonoma.png">
